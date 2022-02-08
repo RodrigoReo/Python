@@ -1,5 +1,0 @@
-nfuncionario = int(input())
-nhoras = int(input())
-nvalor = float(input())
-print("NUMBER =",nfuncionario)
-print('SALARY = U$' , '{:.2f}'.format(nhoras*nvalor))
